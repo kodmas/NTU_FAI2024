@@ -1,0 +1,35 @@
+Started the round 1
+Street "preflop" started. (community card = [])
+['S4', 'HQ']
+"p2" declared "call:10"
+"p1" declared "call:10"
+Street "flop" started. (community card = ['S5', 'CA', 'D5'])
+['S4', 'HQ']
+"p2" declared "raise:990"
+"p1" declared "call:990"
+Street "turn" started. (community card = ['S5', 'CA', 'D5', 'C9'])
+Street "river" started. (community card = ['S5', 'CA', 'D5', 'C9', 'HA'])
+"['p2']" won the round 1 (stack = {'p1': 0, 'p2': 2000})
+{
+    "rule": {
+        "initial_stack": 1000,
+        "max_round": 20,
+        "small_blind_amount": 5,
+        "ante": 0,
+        "blind_structure": {}
+    },
+    "players": [
+        {
+            "name": "p1",
+            "uuid": "qmywirgoezshjkfjbhghlj",
+            "stack": 0,
+            "state": "folded"
+        },
+        {
+            "name": "p2",
+            "uuid": "vmotzhsuzqzfosseefhbin",
+            "stack": 2000,
+            "state": "participating"
+        }
+    ]
+}

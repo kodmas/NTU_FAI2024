@@ -1,0 +1,1826 @@
+receive_game_start_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 1
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 1, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2dadf0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 1 (stack = {'p1': 1005, 'p2': 995})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 2
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 2, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2da2b0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 2, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2da220>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 2 (stack = {'p1': 1015, 'p2': 985})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 3
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 3, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2daa60>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 3 (stack = {'p1': 1020, 'p2': 980})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 4
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 4, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2d1910>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 4, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1b20>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 4 (stack = {'p1': 1030, 'p2': 970})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 5
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 5, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2daac0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 5 (stack = {'p1': 1035, 'p2': 965})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 6
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 6, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2da2b0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 6, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2da880>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 6 (stack = {'p1': 1045, 'p2': 955})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 7
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 7, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2daca0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 7 (stack = {'p1': 1050, 'p2': 950})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 8
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 8, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2d1c70>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 8, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1d00>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 8 (stack = {'p1': 1060, 'p2': 940})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 9
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 9, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2da970>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 9 (stack = {'p1': 1065, 'p2': 935})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 10
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 10, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2da940>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 10, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1a00>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 10 (stack = {'p1': 1075, 'p2': 925})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 11
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 11, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2da160>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 11 (stack = {'p1': 1080, 'p2': 920})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 12
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 12, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2dafd0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 12, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2da580>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 12 (stack = {'p1': 1090, 'p2': 910})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 13
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 13, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2da3d0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 13 (stack = {'p1': 1095, 'p2': 905})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 14
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 14, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2d1c10>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 14, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1f70>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 14 (stack = {'p1': 1105, 'p2': 895})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 15
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 15, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2da6a0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 15 (stack = {'p1': 1110, 'p2': 890})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 16
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 16, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2daca0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 16, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1d60>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 16 (stack = {'p1': 1120, 'p2': 880})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 17
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 17, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2dadc0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 17 (stack = {'p1': 1125, 'p2': 875})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 18
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 18, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2da580>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 18, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2dae20>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 18 (stack = {'p1': 1135, 'p2': 865})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 19
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 19, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2dad00>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 19 (stack = {'p1': 1140, 'p2': 860})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 20
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 20, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2d1d90>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 20, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1a30>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 20 (stack = {'p1': 1150, 'p2': 850})
+receive_round_result_message called
+Episode 0:
+{
+    "rule": {
+        "initial_stack": 1000,
+        "max_round": 20,
+        "small_blind_amount": 5,
+        "ante": 0,
+        "blind_structure": {}
+    },
+    "players": [
+        {
+            "name": "p1",
+            "uuid": "yqqhtsaqwhjorvrkywtjaa",
+            "stack": 1150,
+            "state": "participating"
+        },
+        {
+            "name": "p2",
+            "uuid": "ufnyyyyxrsdvjsxkiiwcje",
+            "stack": 850,
+            "state": "participating"
+        }
+    ]
+}
+receive_game_start_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 1
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 1, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a70220>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 1 (stack = {'p1': 1005, 'p2': 995})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 2
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 2, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a866a0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 2, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a863d0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 2 (stack = {'p1': 1015, 'p2': 985})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 3
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 3, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a86fd0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 3 (stack = {'p1': 1020, 'p2': 980})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 4
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 4, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a88e80>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 4, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2ccee0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 4 (stack = {'p1': 1030, 'p2': 970})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 5
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 5, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a868b0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 5 (stack = {'p1': 1035, 'p2': 965})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 6
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 6, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a82e80>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 6, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2ccc10>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 6 (stack = {'p1': 1045, 'p2': 955})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 7
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 7, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a86f70>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 7 (stack = {'p1': 1050, 'p2': 950})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 8
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 8, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a70e80>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 8, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a70040>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 8 (stack = {'p1': 1060, 'p2': 940})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 9
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 9, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a702b0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 9 (stack = {'p1': 1065, 'p2': 935})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 10
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 10, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a70c70>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 10, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a70190>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 10 (stack = {'p1': 1075, 'p2': 925})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 11
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 11, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a704c0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 11 (stack = {'p1': 1080, 'p2': 920})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 12
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 12, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a83430>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 12, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2ccd00>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 12 (stack = {'p1': 1090, 'p2': 910})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 13
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 13, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a85ac0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 13 (stack = {'p1': 1095, 'p2': 905})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 14
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 14, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a70e20>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 14, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a70f40>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 14 (stack = {'p1': 1105, 'p2': 895})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 15
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 15, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a86790>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 15 (stack = {'p1': 1110, 'p2': 890})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 16
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 16, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a863a0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 16, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a86e50>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 16 (stack = {'p1': 1120, 'p2': 880})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 17
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 17, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a82ac0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 17 (stack = {'p1': 1125, 'p2': 875})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 18
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 18, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a86ca0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 18, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2ccf70>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 18 (stack = {'p1': 1135, 'p2': 865})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 19
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 19, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a876d0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 19 (stack = {'p1': 1140, 'p2': 860})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 20
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 20, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a82c70>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 20, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a82fd0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 20 (stack = {'p1': 1150, 'p2': 850})
+receive_round_result_message called
+Episode 1:
+{
+    "rule": {
+        "initial_stack": 1000,
+        "max_round": 20,
+        "small_blind_amount": 5,
+        "ante": 0,
+        "blind_structure": {}
+    },
+    "players": [
+        {
+            "name": "p1",
+            "uuid": "jpyyxdrgwslnnrqwisheov",
+            "stack": 1150,
+            "state": "participating"
+        },
+        {
+            "name": "p2",
+            "uuid": "klkorrjcepbnbhztiekuen",
+            "stack": 850,
+            "state": "participating"
+        }
+    ]
+}
+receive_game_start_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 1
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 1, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a8a790>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 1 (stack = {'p1': 1005, 'p2': 995})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 2
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 2, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a872e0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 2, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a87040>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 2 (stack = {'p1': 1015, 'p2': 985})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 3
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 3, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a879d0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 3 (stack = {'p1': 1020, 'p2': 980})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 4
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 4, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a8a3a0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 4, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a8a760>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 4 (stack = {'p1': 1030, 'p2': 970})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 5
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 5, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a8ac40>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 5 (stack = {'p1': 1035, 'p2': 965})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 6
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 6, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a82250>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 6, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d12e0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 6 (stack = {'p1': 1045, 'p2': 955})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 7
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 7, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a8a790>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 7 (stack = {'p1': 1050, 'p2': 950})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 8
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 8, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a8a970>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 8, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a82ca0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 8 (stack = {'p1': 1060, 'p2': 940})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 9
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 9, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a8ab20>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 9 (stack = {'p1': 1065, 'p2': 935})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 10
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 10, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a8a850>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 10, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a82040>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 10 (stack = {'p1': 1075, 'p2': 925})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 11
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 11, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2da3d0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 11 (stack = {'p1': 1080, 'p2': 920})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 12
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 12, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2dae20>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 12, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2dacd0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 12 (stack = {'p1': 1090, 'p2': 910})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 13
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 13, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2da0d0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 13 (stack = {'p1': 1095, 'p2': 905})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 14
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 14, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2d10d0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 14, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1070>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 14 (stack = {'p1': 1105, 'p2': 895})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 15
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 15, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2da3d0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 15 (stack = {'p1': 1110, 'p2': 890})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 16
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 16, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2dae20>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 16, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a827f0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 16 (stack = {'p1': 1120, 'p2': 880})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 17
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 17, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2da190>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 17 (stack = {'p1': 1125, 'p2': 875})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 18
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 18, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24aa2da730>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 18, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2da3a0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 18 (stack = {'p1': 1135, 'p2': 865})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 19
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 19, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2da310>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 19 (stack = {'p1': 1140, 'p2': 860})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 20
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 20, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a82040>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 20, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a824f0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 20 (stack = {'p1': 1150, 'p2': 850})
+receive_round_result_message called
+Episode 2:
+{
+    "rule": {
+        "initial_stack": 1000,
+        "max_round": 20,
+        "small_blind_amount": 5,
+        "ante": 0,
+        "blind_structure": {}
+    },
+    "players": [
+        {
+            "name": "p1",
+            "uuid": "otrphpzhbqopbhoieiydcv",
+            "stack": 1150,
+            "state": "participating"
+        },
+        {
+            "name": "p2",
+            "uuid": "xguimzyarkwlgkkusqjdtv",
+            "stack": 850,
+            "state": "participating"
+        }
+    ]
+}
+receive_game_start_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 1
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 1, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2cc220>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 1 (stack = {'p1': 1005, 'p2': 995})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 2
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 2, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a836a0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 2, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a838b0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 2 (stack = {'p1': 1015, 'p2': 985})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 3
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 3, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a83fd0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 3 (stack = {'p1': 1020, 'p2': 980})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 4
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 4, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a7ce80>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 4, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1f40>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 4 (stack = {'p1': 1030, 'p2': 970})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 5
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 5, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a83d00>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 5 (stack = {'p1': 1035, 'p2': 965})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 6
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 6, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a87e80>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 6, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1fd0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 6 (stack = {'p1': 1045, 'p2': 955})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 7
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 7, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a83d60>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 7 (stack = {'p1': 1050, 'p2': 950})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 8
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 8, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a89e80>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 8, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a89130>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 8 (stack = {'p1': 1060, 'p2': 940})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 9
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 9, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a89430>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 9 (stack = {'p1': 1065, 'p2': 935})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 10
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 10, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a8ae80>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 10, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1df0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 10 (stack = {'p1': 1075, 'p2': 925})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 11
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 11, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a89790>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 11 (stack = {'p1': 1080, 'p2': 920})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 12
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 12, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a88c70>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 12, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1e20>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 12 (stack = {'p1': 1090, 'p2': 910})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 13
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 13, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a89af0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 13 (stack = {'p1': 1095, 'p2': 905})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 14
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 14, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a85e80>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 14, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1cd0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 14 (stack = {'p1': 1105, 'p2': 895})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 15
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 15, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a895b0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 15 (stack = {'p1': 1110, 'p2': 890})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 16
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 16, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a7ce80>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 16, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1d90>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 16 (stack = {'p1': 1120, 'p2': 880})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 17
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 17, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a89e50>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 17 (stack = {'p1': 1125, 'p2': 875})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 18
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 18, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a83e80>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 18, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a83070>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 18 (stack = {'p1': 1135, 'p2': 865})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 19
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 19, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a83430>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 19 (stack = {'p1': 1140, 'p2': 860})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 20
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 20, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a895b0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 20, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24aa2d1f10>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 20 (stack = {'p1': 1150, 'p2': 850})
+receive_round_result_message called
+Episode 3:
+{
+    "rule": {
+        "initial_stack": 1000,
+        "max_round": 20,
+        "small_blind_amount": 5,
+        "ante": 0,
+        "blind_structure": {}
+    },
+    "players": [
+        {
+            "name": "p1",
+            "uuid": "xxpgpvpmqknmdrpabfwruf",
+            "stack": 1150,
+            "state": "participating"
+        },
+        {
+            "name": "p2",
+            "uuid": "spitizdrptfaftyqjchmvs",
+            "stack": 850,
+            "state": "participating"
+        }
+    ]
+}
+receive_game_start_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 1
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 1, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a835b0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 1 (stack = {'p1': 1005, 'p2': 995})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 2
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 2, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a7e2e0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 2, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a7e0d0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 2 (stack = {'p1': 1015, 'p2': 985})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 3
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 3, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a7efa0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 3 (stack = {'p1': 1020, 'p2': 980})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 4
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 4, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a831f0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 4, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a833a0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 4 (stack = {'p1': 1030, 'p2': 970})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 5
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 5, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a88490>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 5 (stack = {'p1': 1035, 'p2': 965})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 6
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 6, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a7c640>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 6, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a7ccd0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 6 (stack = {'p1': 1045, 'p2': 955})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 7
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 7, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a7e460>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 7 (stack = {'p1': 1050, 'p2': 950})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 8
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 8, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a7e6d0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 8, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a7e190>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 8 (stack = {'p1': 1060, 'p2': 940})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 9
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 9, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a7e970>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 9 (stack = {'p1': 1065, 'p2': 935})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 10
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 10, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a7c550>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 10, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a7c460>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 10 (stack = {'p1': 1075, 'p2': 925})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 11
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 11, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a87460>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 11 (stack = {'p1': 1080, 'p2': 920})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 12
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 12, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a7e6d0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 12, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a870a0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 12 (stack = {'p1': 1090, 'p2': 910})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 13
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 13, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a876d0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 13 (stack = {'p1': 1095, 'p2': 905})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 14
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 14, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a7ed60>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 14, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a7e820>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 14 (stack = {'p1': 1105, 'p2': 895})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 15
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 15, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a88490>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 15 (stack = {'p1': 1110, 'p2': 890})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 16
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 16, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a7e550>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 16, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a7eeb0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 16 (stack = {'p1': 1120, 'p2': 880})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 17
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 17, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a88e50>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 17 (stack = {'p1': 1125, 'p2': 875})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 18
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 18, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a86490>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 18, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a88310>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 18 (stack = {'p1': 1135, 'p2': 865})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 19
+Street "preflop" started. (community card = [])
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 19, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a7ce20>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 19 (stack = {'p1': 1140, 'p2': 860})
+receive_round_result_message called
+receive_round_start_message called
+receive_street_start_message called
+Started the round 20
+Street "preflop" started. (community card = [])
+bb
+bbb
+dd
+{'round_count': 20, 'small_blind_amount': 5, 'street': 0, 'next_player': 1, 'table': <game.engine.table.Table object at 0x7e24a9a7cdc0>}
+receive_game_update_message called
+"p1" declared "call:10"
+here 0 fold
+here 1 call
+bb
+bbb
+cc
+{'round_count': 20, 'small_blind_amount': 5, 'street': 5, 'next_player': 0, 'table': <game.engine.table.Table object at 0x7e24a9a7c2b0>}
+receive_game_update_message called
+"p2" declared "fold:0"
+"['p1']" won the round 20 (stack = {'p1': 1150, 'p2': 850})
+receive_round_result_message called
+Episode 4:
+{
+    "rule": {
+        "initial_stack": 1000,
+        "max_round": 20,
+        "small_blind_amount": 5,
+        "ante": 0,
+        "blind_structure": {}
+    },
+    "players": [
+        {
+            "name": "p1",
+            "uuid": "pwmuzsqplttbhicurusxso",
+            "stack": 1150,
+            "state": "participating"
+        },
+        {
+            "name": "p2",
+            "uuid": "vdknmslotepmuabbzveimd",
+            "stack": 850,
+            "state": "participating"
+        }
+    ]
+}
+win_rate = 0/5

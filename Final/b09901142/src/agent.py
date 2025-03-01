@@ -1,7 +1,7 @@
 import random
 from game.engine.hand_evaluator import HandEvaluator
 from game.players import BasePokerPlayer
-from agents.utils import gen_cards, estimate_hole_card_win_rate, _fill_community_card, \
+from .utils import gen_cards, estimate_hole_card_win_rate, _fill_community_card, \
     _pick_unused_card
 
 NB_SIMULATION = 3000
